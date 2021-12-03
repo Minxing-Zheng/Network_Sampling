@@ -1,6 +1,6 @@
 # Network_Sampling
 
-This is the repo for the Network Sampling Comparison project which is advised by [Prof. Yichen Qin](https://sites.google.com/view/yichenqin/) at University Of Cincinnati.
+This is the repo for the Network Sampling Comparison project which is advised by [Prof. Yichen Qin](https://business.uc.edu/faculty-and-research/departments/obais/faculty/yichen-qin.html) at University Of Cincinnati.
 
 In this project, we try to answer the question of which sampling algorithm to use when targeting a certain type of graph statistic while the population network follows a specific network model.
 
